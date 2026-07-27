@@ -70,3 +70,9 @@ Email
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohanjayaraman17&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanjayaraman17&layout=compact&theme=tokyonight)
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohanjayaraman17/mohanjayaraman17/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
